@@ -1,11 +1,6 @@
 # Pinet Smart Contracts (PNTE)
 
-Pinet is a multi-chain DeFi platform for peer-to-peer green energy trading, tokenizing kWh and RECs (Renewable Energy Certificates) with IoT oracles and AI forecasting. This repo contains the Solidity smart contracts.
-
-## Key Features
-- **PNTE Token**: ERC-20 with mint/burn/transfer and team vesting (24-month lock).
-- **Energy Contract**: For P2P trades (createShipment → approve → confirm → attest), secure against reentrancy.
-- **Staking & Rewards**: 12-15% APR staking with governance voting for DAO.
+Pinet is a multi-chain DeFi platform for peer-to-peer green energy trading, tokenizing kWh and RECs (Renewable Energy Certificates) with IoT oracles and AI forecasting.
 
 ## Tokenomics
 - Total Supply: 1B PNTE.
