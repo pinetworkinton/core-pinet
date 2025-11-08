@@ -16,7 +16,7 @@ Pinet is a multi-chain DeFi platform for peer-to-peer green energy trading, toke
 Successful deployment on Polygon Mumbai: [Video Demo](https://youtu.be/Px2K72O8RC4) (timestamps: 0:45 deploy, 2:30 test tx, 4:15 success verification).
 
 ## Installation & Run
-1. Clone repo: `git clone https://github.com/pinetworkinton/pinet-contracts.git`
+1. Clone repo: `git clone https://github.com/pinetworkinton/core-pinet.git`
 2. Install dependencies: `npm install hardhat @openzeppelin/contracts`
 3. Compile: `npx hardhat compile`
 4. Test: `npx hardhat test`
