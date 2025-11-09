@@ -51,7 +51,7 @@ Launch of educational programs and international user acquisition
 Tyler Strom (CEO): Master of Science in Artificial Intelligence-Based Energy Development, Blockchain and Fintech enthusiast
 AR.H (CTO): Smart contract specialist with Web3 product experience
 
-🤝 Advisors
+## Advisors
 Francisco Benedito: Founder of ClimateTrade
 Stijn Ponnet: Blockchain advisor, founder of Legion Network
 J. Christopher Giancarlo: Former CFTC Chairman, digital asset advisor
