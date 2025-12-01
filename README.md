@@ -1,6 +1,6 @@
 # Pinet Smart Contracts (PNTE)
 
-Pinet is a multi-chain DeFi platform for peer-to-peer green energy trading, tokenizing kWh and RECs (Renewable Energy Certificates) with IoT oracles and AI forecasting.
+Pinet is a multi-chain platform for peer-to-peer green energy trading, tokenizing kWh and RECs (Renewable Energy Certificates) with IoT oracles and AI forecasting.
 
 ## Tokenomics
 - Total Supply: 1B PNTE.
