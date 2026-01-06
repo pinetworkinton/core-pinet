@@ -10,13 +10,13 @@ Rather than proposing a new theoretical model, PINET focuses on translating exis
   
 - Allocation:
 
-o	30% (300M) Presale
-o	20% (200M) Team & Core Dev (locked 24 months)
-o	15% (100M) Ecosystem / Grants / Liquidity
-o	10% (100M) Treasury / Foundation
-o	10% (100M) Community & Airdrop
-o	10% (100M) Staking / APR Rewards
-o	5%   ( 50M)  KOL & Strategic Partners
+	30% (300M) Presale
+	20% (200M) Team & Core Dev (locked 24 months)
+	15% (100M) Ecosystem / Grants / Liquidity
+	10% (100M) Treasury / Foundation
+	10% (100M) Community & Airdrop
+	10% (100M) Staking / APR Rewards
+	5%   ( 50M)  KOL & Strategic Partners
 
 - Utility: Energy payments, staking, governance.
 
