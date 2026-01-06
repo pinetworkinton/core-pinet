@@ -1,10 +1,23 @@
 # Pinet Smart Contracts (PNTE)
 
-Pinet is a multi-chain platform for peer-to-peer green energy trading, tokenizing kWh and RECs (Renewable Energy Certificates) with IoT oracles and AI forecasting.
+As global energy demand surges and centralized grids struggle with inefficiencies, supply chain losses, and opaque pricing, Pinet offers a bold solution. Built on blockchain and smart contracts, Pinet enables peer-to-peer energy trading connecting producers and consumers directly while lowering costs and boosting sustainability. The PNTE token powers this ecosystem, supporting payments, rewards, staking, and governance.
+PINET is designed as an implementation-focused platform inspired by established research in Transactive Energy (TE) and blockchain-based peer-to-peer energy trading.
+Rather than proposing a new theoretical model, PINET focuses on translating existing frameworks into practical smart contracts and real-world-ready infrastructure.
+
 
 ## Tokenomics
 - Total Supply: 1B PNTE.
-- Allocation: 60% Presale (600M), 20% Team (locked), 10% Rewards/Airdrop, 10% Ecosystem.
+  
+- Allocation:
+
+o	30% (300M) Presale
+o	20% (200M) Team & Core Dev (locked 24 months)
+o	15% (100M) Ecosystem / Grants / Liquidity
+o	10% (100M) Treasury / Foundation
+o	10% (100M) Community & Airdrop
+o	10% (100M) Staking / APR Rewards
+o	5%   ( 50M)  KOL & Strategic Partners
+
 - Utility: Energy payments, staking, governance.
 
 ## Testnet Demo
@@ -48,14 +61,13 @@ Collaboration with major energy providers and tech companies for platform scalin
 Launch of educational programs and international user acquisition
 
 ## Team
-Tyler Strom (CEO): Master of Science in Artificial Intelligence-Based Energy Development, Blockchain and Fintech enthusiast
-AR.H (CTO): Smart contract specialist with Web3 product experience
+•	AR.H - Founder, Master of Science in Energy and Statistics, Blockchain and Fintech enthusiast
+•	Tyler Storm - CTO, Smart contract specialist with Web3 product experience
 
 ## Advisors
-Francisco Benedito: Founder of ClimateTrade
-Stijn Ponnet: Blockchain advisor, founder of Legion Network
-J. Christopher Giancarlo: Former CFTC Chairman, digital asset advisor
-Jay Kurahashi-Sofue: VP of Marketing at Ava Labs (Avalanche)
+•	Stijn Ponnet – Blockchain advisor, founder of Legion Network
+•	J. Christopher Giancarlo – Former CFTC Chairman, digital asset advisor
+•	Vokkant Thakkar – DeFi Analyst at Chaos Labs
 
 Website: [pinetworkinton.free.nf](https://pinetworkinton.free.nf) | X: [@pinetworkinton](https://x.com/pinetworkinton)
 
